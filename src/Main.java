@@ -25,7 +25,7 @@ class Problems {
             b = temp + a;
         }
 
-        // returns true if input number is equal to
+        // returns true if input number is equal to fibonacci number
         return a == n;
 
     }
